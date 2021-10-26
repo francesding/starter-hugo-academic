@@ -4,6 +4,7 @@ widget_id: skills
 headless: true
 weight: 30
 title: Skills
+active: false
 subtitle: null
 feature:
   - description: 90%
