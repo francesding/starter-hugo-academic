@@ -8,5 +8,5 @@ weight: 20
 title: Biography
 design:
   background:
-    image: ""
+    image: 2018_mor.jpg
 ---
