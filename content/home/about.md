@@ -1,21 +1,10 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: bio
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am a third-year PhD student at UC Berkeley advised by Professors Moritz Hardt and Jacob Steinhardt. I’m broadly interested in ensuring that machine learning has positive social impact, from developing theoretical foundations for algorithmic fairness to empirical investigations into robustness of ML systems.
