@@ -1,7 +1,7 @@
 ---
 title: Frances Ding
 role: PhD Student
-avatar_filename: 2018_mor.jpg
+avatar_filename: ./2018_mor.jpg
 bio: ""
 interests: []
 social:
