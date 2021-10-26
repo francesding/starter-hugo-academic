@@ -23,7 +23,7 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: UC Berkeley
+      institution: University of California Berkeley
       year: ""
     - course: MPhil in Machine Learning
       institution: University of Cambridge
