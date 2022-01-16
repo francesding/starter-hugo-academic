@@ -1,5 +1,5 @@
 ---
-title: [Retiring Adult: New Datasets for Fair Machine Learning](<https://arxiv.org/abs/2108.04884>)
+title: Retiring Adult: New Datasets for Fair Machine Learning
 publication_types:
   - "1"
 authors:
@@ -17,3 +17,4 @@ image:
   preview_only: false
 date: 2022-01-16T23:34:43.928Z
 ---
+url_pdf = "https://arxiv.org/abs/2108.04884>"
