@@ -1,18 +1,14 @@
 ---
-title: "Retiring Adult: New Datasets for Fair Machine Learning"
+title: [Retiring Adult: New Datasets for Fair Machine Learning](<https://arxiv.org/abs/2108.04884>)
 publication_types:
   - "1"
 authors:
-  - Ding
-  - Frances
-  - Hardt
-  - Moritz
-  - Miller
-  - John
-  - Schmidt
-  - Ludwig
+  - Frances Ding
+  - Moritz Hardt
+  - John Miller
+  - Ludwig Schmidt
 author_notes: []
-publication: Neurips, 2021
+publication: *NeurIPS*, 2021
 draft: false
 featured: false
 image:
@@ -21,4 +17,3 @@ image:
   preview_only: false
 date: 2022-01-16T23:34:43.928Z
 ---
-*<https://arxiv.org/abs/2108.04884>*
