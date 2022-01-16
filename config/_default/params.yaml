@@ -20,9 +20,9 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: frances@berkeley.edu
+email: frances at berkeley dot edu
 #phone: 888 888 88 88
-#address:
+address: 537 Soda Hall
 #  street: 450 Serra Mall
 #  city: Stanford
 #  region: CA
@@ -37,11 +37,11 @@ email: frances@berkeley.edu
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/FrancesDing'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/FrancesDing'
   #- icon: skype
   #  icon_pack: fab
   #  name: Skype Me
