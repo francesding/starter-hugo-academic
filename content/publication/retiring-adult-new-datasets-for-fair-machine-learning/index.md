@@ -8,7 +8,7 @@ authors:
   - John Miller
   - Ludwig Schmidt
 author_notes: []
-publication: *NeurIPS*, 2021
+publication: NeurIPS, 2021
 draft: false
 featured: false
 image:
