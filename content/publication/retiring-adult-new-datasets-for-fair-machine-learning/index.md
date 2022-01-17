@@ -16,5 +16,5 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2022-01-16T23:34:43.928Z
-url_pdf: "https://arxiv.org/abs/2108.04884>"
+url_pdf: "https://arxiv.org/abs/2108.04884"
 ---
