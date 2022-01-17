@@ -15,6 +15,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
- 
- url_video: "https://www.youtube.com/watch?v=KP7DhM_ahHI"
+url_video: "https://www.youtube.com/watch?v=KP7DhM_ahHI"
 ---
