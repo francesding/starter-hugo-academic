@@ -5,9 +5,10 @@ publication_types:
 authors:
   - Frances Ding
   - Jean-Stanislas Denain
+  - Jacob Steinhardt
 publication: NeurIPS, 2021
 draft: false
-featured: true
+featured: false
 image:
   filename: featured
   focal_point: Smart
