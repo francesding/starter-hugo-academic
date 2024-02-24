@@ -6,7 +6,7 @@ authors:
   - Janet H T Song
   - Carolin Ruven
   - Payal Patel
-  - "**Frances Ding**"
+  - Frances Ding
   - Jeffrey D Macklis
   - Vibhu Sahni
 publication: "In *Journal of Neuroscience*, 2023"

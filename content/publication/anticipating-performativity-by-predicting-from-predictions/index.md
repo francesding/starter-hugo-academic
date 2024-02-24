@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Celestine Mendler-Dunner
-  - "**Frances Ding**"
+  - Frances Ding
   - Yixin Wang
 publication: "In *NeurIPS*, 2022"
 draft: false
