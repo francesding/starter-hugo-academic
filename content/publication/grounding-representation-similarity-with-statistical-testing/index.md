@@ -3,7 +3,7 @@ title: Grounding Representation Similarity with Statistical Testing
 publication_types:
   - "1"
 authors:
-  - "Frances Ding"
+  - admin
   - Jean-Stanislas Denain
   - Jacob Steinhardt
 publication: "In *NeurIPS*, 2021"

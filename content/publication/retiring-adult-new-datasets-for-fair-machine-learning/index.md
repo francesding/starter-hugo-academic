@@ -3,7 +3,7 @@ title: "Retiring Adult: New Datasets for Fair Machine Learning"
 publication_types:
   - "1"
 authors:
-  - Frances Ding
+  - admin
   - Moritz Hardt
   - John Miller
   - Ludwig Schmidt
