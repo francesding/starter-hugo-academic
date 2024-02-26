@@ -7,7 +7,8 @@ authors:
   - Moritz Hardt
   - John Miller
   - Ludwig Schmidt
-author_notes: []
+author_notes:
+  - "Author names listed in alphabetical order"
 publication: "In *NeurIPS*, 2021"
 draft: false
 featured: false
