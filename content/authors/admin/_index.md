@@ -35,4 +35,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a fifth-year PhD student at UC Berkeley advised by Professors Moritz Hardt and Jacob Steinhardt. I have previously worked on the theoretical foundations for algorithmic fairness and empirical investigations into interpretability and robustness of ML systems. These days I am particularly interested in applications of machine learning to protein and molecule design. I am grateful to be supported by the NSF GRFP and the Open Philanthropy AI Fellows Program.
+I am a fifth-year PhD student at UC Berkeley advised by Professors [Moritz Hardt](https://mrtz.org/) and [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I have previously worked on the theoretical foundations for algorithmic fairness and empirical investigations into interpretability and robustness of machine learning systems. These days my research focus is in machine learning for protein modeling. I work on improving protein property classification and protein design, as well as increasing the interpretability of protein language models. 
+
+Previously, I was lucky to be advised by [Sebastian Tschiatschek](https://tschiatschek.net/) while at University of Cambridge and [Cynthia Dwork](https://dwork.seas.harvard.edu/) at Harvard University. I am grateful to be supported by the NSF GRFP and the [Open Philanthropy AI Fellows Program](https://www.openphilanthropy.org/potential-risks-advanced-artificial-intelligence-the-open-phil-ai-fellowship/).
