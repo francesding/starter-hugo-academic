@@ -1,5 +1,5 @@
 ---
-title: Representation via Representations: Domain Generalization via Adversarially Learned Invariant Representations
+title: "Representation via Representations: Domain Generalization via Adversarially Learned Invariant Representations"
 publication_types:
   - "3"
 authors:
