@@ -1,5 +1,5 @@
 ---
-title: Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks
+title: "Generalists vs. Specialists: Evaluating LLMs on Highly-Constrained Biophysical Sequence Optimization Tasks"
 publication_types:
   - "1"
 authors:
